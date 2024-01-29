@@ -3,7 +3,7 @@
 ## プロジェクトの説明
 
 Unity でハノイの塔を作ります。
-こちらのアプリをクローンして作ります。
+こちらのアプリをクローンして作ります。  
 https://apps.apple.com/us/app/tower-of-hanoi-online-puzzle/id1065987236
 
 ## バージョン
